@@ -1,4 +1,4 @@
-# pmod_1553
+# pmod1553
 ## open source 1553 hardware design.
 
 ![image](docs/manual/img/AFRL.png)
